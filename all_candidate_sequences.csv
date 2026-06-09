@@ -1,0 +1,64 @@
+target,id,description,length,name_pass,length_pass
+Aspergillus_fumigatus_PksP_Alb1,sp|B0XYE0.1|RLMA_ASPFC,sp|B0XYE0.1|RLMA_ASPFC RecName: Full=MADS-box transcription factor rlmA,600,False,False
+Aspergillus_fumigatus_PksP_Alb1,sp|B0XU60.1|DEVR_ASPFC,sp|B0XU60.1|DEVR_ASPFC RecName: Full=Basic helix-loop-helix transcription factor devR,525,False,False
+Aspergillus_fumigatus_PksP_Alb1,sp|Q4WX78.1|RLMA_ASPFU,sp|Q4WX78.1|RLMA_ASPFU RecName: Full=Transcription factor rlmA,600,False,False
+Aspergillus_fumigatus_PksP_Alb1,sp|Q4WRY5.1|LAEA_ASPFU,sp|Q4WRY5.1|LAEA_ASPFU RecName: Full=Secondary metabolism regulator laeA; AltName: Full=Methyltransferase laeA; AltName: Full=Velvet complex subunit laeA,373,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAM0123260.1,KAM0123260.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAM0107054.1,KAM0107054.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAM0105117.1,KAM0105117.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAM0096281.1,KAM0096281.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,XP_756095.1,XP_756095.1 polyketide synthase alb1 [Aspergillus fumigatus Af293],2146,True,True
+Aspergillus_fumigatus_PksP_Alb1,XP_753293.1,XP_753293.1 Alb1 domain-containing protein [Aspergillus fumigatus Af293],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,sp|Q4WZA8.1|ALB1_ASPFU,sp|Q4WZA8.1|ALB1_ASPFU RecName: Full=Conidial pigment polyketide synthase alb1; AltName: Full=Conidial pigment biosynthesis protein alb1; AltName: Full=Naphthopyrone synthase,2146,True,True
+Aspergillus_fumigatus_PksP_Alb1,KAL3415626.1,KAL3415626.1 polyketide synthetase PksP [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAL3409763.1,KAL3409763.1 Alb1-domain-containing protein [Aspergillus fumigatus],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAK9651845.1,KAK9651845.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2148,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9645290.1,KAK9645290.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9638811.1,KAK9638811.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9632957.1,KAK9632957.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9603567.1,KAK9603567.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9598855.1,KAK9598855.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9597054.1,KAK9597054.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9574829.1,KAK9574829.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9569914.1,KAK9569914.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAK9567180.1,KAK9567180.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,XBQ84260.1,XBQ84260.1 ribosome biogenesis protein alb1 [Aspergillus fumigatus],2146,False,True
+Aspergillus_fumigatus_PksP_Alb1,KAJ8232027.1,KAJ8232027.1 hypothetical protein LV160_007190 [Aspergillus fumigatus],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAJ8229693.1,KAJ8229693.1 hypothetical protein LV156_006970 [Aspergillus fumigatus],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAJ8220963.1,KAJ8220963.1 hypothetical protein LV158_000863 [Aspergillus fumigatus],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAJ8219013.1,KAJ8219013.1 hypothetical protein LV159_005603 [Aspergillus fumigatus],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAJ8204996.1,KAJ8204996.1 hypothetical protein LV164_005818 [Aspergillus fumigatus],170,False,False
+Aspergillus_fumigatus_PksP_Alb1,KAJ8192576.1,KAJ8192576.1 hypothetical protein LV161_003361 [Aspergillus fumigatus],170,False,False
+Penicillium_oxalicum_CYP51,XP_049965139.1,XP_049965139.1 cytochrome P450 [Penicillium oxalicum],525,False,True
+Penicillium_oxalicum_CYP51,KAI2785840.1,KAI2785840.1 Eburicol 14-alpha-demethylase [Penicillium oxalicum],525,True,True
+Penicillium_oxalicum_CYP51,EPS31310.1,EPS31310.1 hypothetical protein PDE_06265 [Penicillium oxalicum 114-2],525,False,True
+Aspergillus_niger_CYP51,KAN0694988.1,KAN0694988.1 Lanosterol 14-alpha-demethylase [Aspergillus niger],524,True,True
+Aspergillus_niger_CYP51,KAN0688014.1,KAN0688014.1 Lanosterol 14-alpha-demethylase [Aspergillus niger],512,True,True
+Aspergillus_niger_CYP51,XP_025450743.1,XP_025450743.1 cytochrome P450 [Aspergillus niger CBS 101883],482,False,True
+Aspergillus_niger_CYP51,XP_025453823.1,XP_025453823.1 cytochrome P450 [Aspergillus niger CBS 101883],491,False,True
+Aspergillus_niger_CYP51,XP_025454722.1,XP_025454722.1 cytochrome P450 [Aspergillus niger CBS 101883],512,False,True
+Aspergillus_niger_CYP51,XP_025458281.1,XP_025458281.1 cytochrome P450 [Aspergillus niger CBS 101883],556,False,True
+Aspergillus_niger_CYP51,KAL7660170.1,KAL7660170.1 Lanosterol 14-alpha-demethylase [Aspergillus niger],524,True,True
+Aspergillus_niger_CYP51,KAL7658541.1,KAL7658541.1 Lanosterol 14-alpha-demethylase [Aspergillus niger],512,True,True
+Aspergillus_niger_CYP51,XP_001398519.3,XP_001398519.3 uncharacterized protein An18g00500 [Aspergillus niger],496,False,True
+Aspergillus_niger_CYP51,XP_059604565.1,XP_059604565.1 uncharacterized protein An13g00090 [Aspergillus niger],556,False,True
+Aspergillus_niger_CYP51,XP_001394224.1,XP_001394224.1 uncharacterized protein An11g02230 [Aspergillus niger],512,False,True
+Aspergillus_niger_CYP51,XP_001394031.1,XP_001394031.1 uncharacterized protein An11g00270 [Aspergillus niger],482,False,True
+Aspergillus_niger_CYP51,sp|A5ABG2.1|PYND_ASPNC,sp|A5ABG2.1|PYND_ASPNC RecName: Full=Cytochrome P450 monooxygenase pynD; AltName: Full=Pyranonigrin biosynthesis cluster protein D; Flags: Precursor,482,False,True
+Aspergillus_niger_CYP51,KAL3263967.1,KAL3263967.1 hypothetical protein ABHI18_001280 [Aspergillus niger],483,False,True
+Aspergillus_niger_CYP51,KAL3261107.1,KAL3261107.1 hypothetical protein ABHI18_004024 [Aspergillus niger],524,False,True
+Aspergillus_niger_CYP51,KAL3260698.1,KAL3260698.1 hypothetical protein ABHI18_004382 [Aspergillus niger],512,False,True
+Aspergillus_niger_CYP51,KAL3250963.1,KAL3250963.1 hypothetical protein ABHI18_010913 [Aspergillus niger],491,False,True
+Aspergillus_niger_CYP51,WOG34491.1,"WOG34491.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34490.1,"WOG34490.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34489.1,"WOG34489.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34488.1,"WOG34488.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34487.1,"WOG34487.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34486.1,"WOG34486.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34485.1,"WOG34485.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34484.1,"WOG34484.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34483.1,"WOG34483.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34482.1,"WOG34482.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34481.1,"WOG34481.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34480.1,"WOG34480.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True
+Aspergillus_niger_CYP51,WOG34479.1,"WOG34479.1 sterol 14-alpha-demethylase, partial [Aspergillus niger]",481,True,True

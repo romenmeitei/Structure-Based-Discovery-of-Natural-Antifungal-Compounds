@@ -1,0 +1,4 @@
+target,selected_id,description,length,file,status
+Aspergillus_fumigatus_PksP_Alb1,XP_756095.1,XP_756095.1 polyketide synthase alb1 [Aspergillus fumigatus Af293],2146,validated_target_protein_sequences/Aspergillus_fumigatus_PksP_Alb1.fasta,saved
+Penicillium_oxalicum_CYP51,KAI2785840.1,KAI2785840.1 Eburicol 14-alpha-demethylase [Penicillium oxalicum],525,validated_target_protein_sequences/Penicillium_oxalicum_CYP51.fasta,saved
+Aspergillus_niger_CYP51,KAN0694988.1,KAN0694988.1 Lanosterol 14-alpha-demethylase [Aspergillus niger],524,validated_target_protein_sequences/Aspergillus_niger_CYP51.fasta,saved
