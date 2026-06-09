@@ -53,16 +53,6 @@ The study aimed to:
 │   ├── SWISSMODEL/
 │   └── Modeller/
 │
-├── docking/
-│   ├── ligand_structures/
-│   ├── docking_results/
-│   └── interaction_analysis/
-│
-├── md_simulation/
-│   ├── APO/
-│   ├── Voriconazole/
-│   └── Farnesol/
-│
 └── README.md
 ```
 
